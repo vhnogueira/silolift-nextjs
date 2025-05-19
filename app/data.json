@@ -1,0 +1,506 @@
+[
+  {
+    "id": "1",
+    "header": "Amazon Web Services",
+    "slug": "aws-services",
+    "status": "Inactive",
+    "type": "Non Local Child"
+  },
+  {
+    "id": "2",
+    "header": "Application Managed Services",
+    "slug": "application-managed-services",
+    "status": "Inactive",
+    "type": "Non Local Child"
+  },
+  {
+    "id": "3",
+    "header": "Backup and Disaster Recovery",
+    "slug": "backup-and-disaster-recovery",
+    "status": "4. Content Generated / Waiting Review",
+    "type": "Non Local Child"
+  },
+  {
+    "id": "4",
+    "header": "Cloud Consulting",
+    "slug": "cloud-consulting",
+    "status": "2. ChatGPT Rewriting",
+    "type": "Non Local Child"
+  },
+  {
+    "id": "5",
+    "header": "Cloud Cybersecurity",
+    "slug": "cloud-cybersecurity",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Child"
+  },
+  {
+    "id": "6",
+    "header": "Cloud Desktop",
+    "slug": "cloud-desktop",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Child"
+  },
+  {
+    "id": "7",
+    "header": "Cloud Hosting",
+    "slug": "cloud-hosting",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Child"
+  },
+  {
+    "id": "8",
+    "header": "Cloud Migration Services",
+    "slug": "cloud-migration",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Child"
+  },
+  {
+    "id": "9",
+    "header": "Co-Managed IT Services",
+    "slug": "co-managed-it-services",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Child"
+  },
+  {
+    "id": "10",
+    "header": "Cyber Risk Assessment",
+    "slug": "cyber-risk-assessment",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Child"
+  },
+  {
+    "id": "11",
+    "header": "Cyber Security Consulting",
+    "slug": "cyber-security-consulting",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Child"
+  },
+  {
+    "id": "12",
+    "header": "Email Security",
+    "slug": "email-security",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Child"
+  },
+  {
+    "id": "13",
+    "header": "Employee Onboarding/Offboarding",
+    "slug": "employee-onboarding-offboarding",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Child"
+  },
+  {
+    "id": "14",
+    "header": "Endpoint Security",
+    "slug": "endpoint-security",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Child"
+  },
+  {
+    "id": "15",
+    "header": "Fully-Managed Cybersecurity",
+    "slug": "fully-managed-cybersecurity",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Child"
+  },
+  {
+    "id": "16",
+    "header": "Hardware Asset Management",
+    "slug": "hardware-asset-management",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Child"
+  },
+  {
+    "id": "17",
+    "header": "IDS/IPS Services",
+    "slug": "ids-ips",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Child"
+  },
+  {
+    "id": "18",
+    "header": "IT Audits & Assessments",
+    "slug": "it-audits-and-assessments",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Child"
+  },
+  {
+    "id": "19",
+    "header": "IT Procurement Services",
+    "slug": "it-procurement",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Child"
+  },
+  {
+    "id": "20",
+    "header": "IT Staff Augmentation",
+    "slug": "it-staff-augmentation",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Child"
+  },
+  {
+    "id": "21",
+    "header": "IT Strategy Services",
+    "slug": "it-strategy-services",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Child"
+  },
+  {
+    "id": "22",
+    "header": "Mac Support",
+    "slug": "mac-support",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Child"
+  },
+  {
+    "id": "23",
+    "header": "Managed Desktop/Virtual Desktop Infrastructure (VDI)",
+    "slug": "managed-desktop-vdi",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Child"
+  },
+  {
+    "id": "24",
+    "header": "Managed Firewall Services",
+    "slug": "managed-firewall",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Child"
+  },
+  {
+    "id": "25",
+    "header": "Managed Security Operations Center (SOC)",
+    "slug": "managed-soc",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Child"
+  },
+  {
+    "id": "26",
+    "header": "MDR (Monitoring & Response)",
+    "slug": "mdr-monitoring-and-response",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Child"
+  },
+  {
+    "id": "27",
+    "header": "Mobile Device Management",
+    "slug": "mobile-device-management",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Child"
+  },
+  {
+    "id": "28",
+    "header": "Network Security",
+    "slug": "network-security",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Child"
+  },
+  {
+    "id": "29",
+    "header": "Office Relocation",
+    "slug": "office-relocation",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Child"
+  },
+  {
+    "id": "30",
+    "header": "On-Site IT Support Services",
+    "slug": "onsite-it-support-services",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Child"
+  },
+  {
+    "id": "31",
+    "header": "Penetration Testing Services",
+    "slug": "penetration-testing-services",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Child"
+  },
+  {
+    "id": "32",
+    "header": "Private Cloud Services",
+    "slug": "private-cloud-services",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Child"
+  },
+  {
+    "id": "33",
+    "header": "Public/Hybrid Cloud",
+    "slug": "public-hybrid-cloud-services",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Child"
+  },
+  {
+    "id": "34",
+    "header": "Remote IT Support Services",
+    "slug": "remote-it-support",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Child"
+  },
+  {
+    "id": "35",
+    "header": "Security Information Event Management (SIEM)",
+    "slug": "siem-services",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Child"
+  },
+  {
+    "id": "36",
+    "header": "Server Admin & Support Services",
+    "slug": "server-admin-and-support-services",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Child"
+  },
+  {
+    "id": "37",
+    "header": "Software Asset Management",
+    "slug": "software-asset-management",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Child"
+  },
+  {
+    "id": "38",
+    "header": "vCIO Services",
+    "slug": "vcio-services",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Child"
+  },
+  {
+    "id": "39",
+    "header": "Virtualization Services",
+    "slug": "virtualization-services",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Child"
+  },
+  {
+    "id": "40",
+    "header": "VoIP and Unified Communications Services",
+    "slug": "voip-and-unified-communications",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Child"
+  },
+  {
+    "id": "41",
+    "header": "VoIP Services",
+    "slug": "voip-services",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Child"
+  },
+  {
+    "id": "42",
+    "header": "Windows Support",
+    "slug": "windows-support",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Child"
+  },
+  {
+    "id": "43",
+    "header": "Accounting Firm IT Services",
+    "slug": "accounting-firm-it-services",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Parent"
+  },
+  {
+    "id": "44",
+    "header": "Banking and Financial Services IT",
+    "slug": "banking-and-financial-services-it",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Parent"
+  },
+  {
+    "id": "45",
+    "header": "Construction IT Services",
+    "slug": "construction-it-services",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Parent"
+  },
+  {
+    "id": "46",
+    "header": "Dealership and Automotive IT Services",
+    "slug": "dealership-automotive",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Parent"
+  },
+  {
+    "id": "47",
+    "header": "Education IT Services",
+    "slug": "education-it-services",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Parent"
+  },
+  {
+    "id": "48",
+    "header": "Enterprise Managed IT Services",
+    "slug": "enterprise-managed-it-services",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Parent"
+  },
+  {
+    "id": "49",
+    "header": "Government IT Services",
+    "slug": "government-it-services",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Parent"
+  },
+  {
+    "id": "50",
+    "header": "Healthcare Managed IT Services",
+    "slug": "healthcare-managed-it-services-support",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Parent"
+  },
+  {
+    "id": "51",
+    "header": "IT Asset Management Services",
+    "slug": "it-asset-management",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Parent"
+  },
+  {
+    "id": "52",
+    "header": "IT Services by Industry",
+    "slug": "it-services-by-industry",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Parent"
+  },
+  {
+    "id": "53",
+    "header": "Large Business IT Services",
+    "slug": "large-business-it-services",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Parent"
+  },
+  {
+    "id": "54",
+    "header": "Legal and Law Firm IT Services",
+    "slug": "legal-law-firm-it",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Parent"
+  },
+  {
+    "id": "55",
+    "header": "Managed Cloud Services",
+    "slug": "managed-cloud-services",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Parent"
+  },
+  {
+    "id": "56",
+    "header": "Manufacturing IT",
+    "slug": "manufacturing-it",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Parent"
+  },
+  {
+    "id": "57",
+    "header": "Marketing IT Services",
+    "slug": "marketing-it",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Parent"
+  },
+  {
+    "id": "58",
+    "header": "Microsoft 365 Services",
+    "slug": "microsoft-365",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Parent"
+  },
+  {
+    "id": "59",
+    "header": "Microsoft Azure Services",
+    "slug": "microsoft-azure-services",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Parent"
+  },
+  {
+    "id": "60",
+    "header": "Microsoft Exchange Services",
+    "slug": "microsoft-exchange-services",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Parent"
+  },
+  {
+    "id": "61",
+    "header": "Microsoft SharePoint Services",
+    "slug": "share-point-services",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Parent"
+  },
+  {
+    "id": "62",
+    "header": "Microsoft Teams Services",
+    "slug": "microsoft-teams",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Parent"
+  },
+  {
+    "id": "63",
+    "header": "Mid-Sized Business",
+    "slug": "mid-sized-business",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Parent"
+  },
+  {
+    "id": "64",
+    "header": "Non-Profit IT Services",
+    "slug": "non-profit-it-services",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Parent"
+  },
+  {
+    "id": "65",
+    "header": "Pharma and Med Tech IT",
+    "slug": "pharma-med-tech",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Parent"
+  },
+  {
+    "id": "66",
+    "header": "Professional IT Services",
+    "slug": "professional-it-services",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Parent"
+  },
+  {
+    "id": "67",
+    "header": "Real Estate IT Services",
+    "slug": "real-estate-it-services",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Parent"
+  },
+  {
+    "id": "68",
+    "header": "Retail IT Services",
+    "slug": "retail-it-services",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Parent"
+  },
+  {
+    "id": "69",
+    "header": "Services for the Microsoft Suite",
+    "slug": "microsoft-solutions",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Parent"
+  },
+  {
+    "id": "70",
+    "header": "Skype for Business Services",
+    "slug": "skype-for-business",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Parent"
+  },
+  {
+    "id": "71",
+    "header": "Small Business",
+    "slug": "small-business",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Parent"
+  },
+  {
+    "id": "72",
+    "header": "Transportation & Logistics IT Services",
+    "slug": "transportation-and-logistics-it-services",
+    "status": "3. Waiting for ChatGPT to rewrite",
+    "type": "Non Local Parent"
+  }
+]
